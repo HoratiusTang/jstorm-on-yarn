@@ -21,7 +21,7 @@ details can refer to [Chinese version document](https://github.com/alibaba/jstor
 -----
 1. download jstorm release package. [Download](https://github.com/alibaba/jstorm/wiki/Downloads)
 2. untar it, and make it a zip file named, for example, jstorm.zip.
-3. configure storm.yaml in jstorm package like [link](https://github.com/alibaba/jstorm/wiki/%E5%A6%82%E4%BD%95%E5%AE%89%E8%A3%85), and copy it to $HOME/.jstorm/storm.yaml
+3. configure storm.yaml in jstorm package like [link](https://github.com/alibaba/jstorm/wiki/JStorm-Configuration), and copy it to $HOME/.jstorm/storm.yaml
 4. put jstorm.zip into HDFS directory `/lib/jstorm/[version]/`.
 5. download jstorm-yarn package and untar it. 
 6. add jstorm-yarn/bin to $PATH
